@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+a-layout {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+a-layout-header,
+a-layout-footer {
+    background: #001529;
+    color: white;
+}
